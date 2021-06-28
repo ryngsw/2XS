@@ -1,0 +1,30 @@
+[
+  	{
+		"name": "compressor_1",
+		"code": "5310B9D7",
+		"location": "Brazil",
+		"status": "active",
+		"vesselCode": "MV102" 
+	},
+	{
+		"name": "compressor_2",
+		"code": "1233B9D7",
+		"location": "UK",
+		"status": "active",
+		"vesselCode": "MV103" 
+	},
+	{
+		"name": "compressor_3",
+		"code": "1999B0D1",
+		"location": "Japan",
+		"status": "active",
+		"vesselCode": "MV104" 
+	},
+	{
+		"name": "compressor_4",
+		"code": "8788A9D3",
+		"location": "Germany",
+		"status": "inactive",
+		"vesselCode": "MV105" 
+	}
+]
